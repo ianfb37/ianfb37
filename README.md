@@ -12,7 +12,7 @@
 - 🌱 Aprendiendo **Tecnologías que estés aprendiendo**
 - 👯 Busco colaborar en **Proyectos Open Source interesantes**
 - 💬 Pregúntame sobre **Tus tecnologías favoritas**
-- 📫 Cómo contactarme: **tu-email@ejemplo.com**
+- 📫 Cómo contactarme: **ianfb2003@gmail.com**
 - ⚡ Dato curioso: **Algo interesante sobre ti**
 
 ---
