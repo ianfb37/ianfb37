@@ -77,12 +77,12 @@
 
 ### 🎧 Ahora escuchando
 
-[![Spotify](https://spotify-now-playing-git-main-tu-usuario.vercel.app/api/spotify)](https://open.spotify.com/user/tu-usuario)
+[![Spotify](https://spotify-now-playing-git-main-tu-usuario.vercel.app/api/spotify)](https://open.spotify.com/user/ianfb37)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="tu-usuario" /> 
+  <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="ianfb37" /> 
 </p>
 
 <p align="center">
