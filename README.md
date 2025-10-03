@@ -49,12 +49,12 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ianfb37&show_icons=true&theme=radical" alt="Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianfb37&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="Racha de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianfb37&theme=radical" alt="Racha de GitHub" />
 </p>
 
 ---
@@ -75,11 +75,7 @@
 
 ---
 
-### 🎧 Ahora escuchando
 
-[![Spotify](https://spotify-now-playing-git-main-tu-usuario.vercel.app/api/spotify)](https://open.spotify.com/user/ianfb37)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="ianfb37" /> 
