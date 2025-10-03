@@ -9,11 +9,9 @@
 
 ### 🚀 Sobre mí
 - 🔭 Actualmente trabajo en **[PSP]**
-- 🌱 Aprendiendo **Tecnologías que estés aprendiendo**
-- 👯 Busco colaborar en **Proyectos Open Source interesantes**
+- 🌱 Aprendiendo **Angular**
 - 💬 Pregúntame sobre **Tus tecnologías favoritas**
 - 📫 Cómo contactarme: **ianfb2003@gmail.com**
-- ⚡ Dato curioso: **Algo interesante sobre ti**
 
 ---
 
