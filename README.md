@@ -1,9 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Ian Fuentes</h1>
 <h3 align="center">Un apasionado desarrollador de paginas web y de aplicacion multiplataforma de asturias</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Desarrollador+Full-Stack;Amante+del+Código+Abierto;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
-</p>
+
 
 ---
 
