@@ -9,7 +9,7 @@
 - 🔭 Actualmente trabajo en **[PSP]**
 - 🌱 Aprendiendo **Angular**
 - 💬 Pregúntame sobre **Tus tecnologías favoritas**
-- 📫 Cómo contactarme: **ianfb2003@gmail.com**
+- 📫 Cómo contactarme: **ianfuentes2003@gmail.com**
 
 ---
 
